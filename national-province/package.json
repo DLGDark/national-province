@@ -1,0 +1,32 @@
+{
+  "name": "national-province",
+  "version": "1.0.2",
+  "description": "Get national provincial information",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dlg",
+  "license": "MIT",
+  "keywords": [
+    "national",
+    "province",
+    "area"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLGDark/national-province.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DLGDark/national-province/issues"
+  },
+  "homepage": "https://github.com/DLGDark/national-province#readme"
+}
