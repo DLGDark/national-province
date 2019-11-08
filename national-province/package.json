@@ -1,6 +1,6 @@
 {
   "name": "national-province",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get national provincial information",
   "main": "index.js",
   "directories": {
