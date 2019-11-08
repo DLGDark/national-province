@@ -21,7 +21,8 @@ const province=require('national-province');
 province.getProvince()
         .then(res => {
           // 这里写拿到数据后的自己的一些操作代码
-          // 因为内部是异步调用方式，这里用then来接受结果，结果为查找到的所有省数据，数据格式为json格式
+          // 因为内部是异步调用方式，这里用then来接受结果，
+          // 结果为查找到的所有省数据，数据格式为json格式
           console.log(res);
         })
         .catch(err => { 
